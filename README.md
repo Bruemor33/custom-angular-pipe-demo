@@ -1,5 +1,7 @@
 # ReplaceNullPipe
 
+I set up this project as a demo for a smal coding challenge.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
 ## Development server
