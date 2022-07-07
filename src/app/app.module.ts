@@ -3,10 +3,12 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ReplaceNullWithStringPipe } from './replace-null-with-string.pipe';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ReplaceNullWithStringPipe
   ],
   imports: [
     BrowserModule,
