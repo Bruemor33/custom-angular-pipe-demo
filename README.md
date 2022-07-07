@@ -15,6 +15,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 3. Run the development server
 `ng serve`
 
-4. Navigate to the provided url to view the pip in action!
+4. Navigate to the provided url to view the pip in action
 `http://localhost:4200/`
 
